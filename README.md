@@ -1,4 +1,4 @@
 # Data_Visualization_HW1
 Repository for the first assignment in Data Visualization.
 
-Worked with WWI data from unspecified sources by the professor.
+Worked with WWII data from unspecified sources by the professor.
